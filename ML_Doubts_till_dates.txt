@@ -1,0 +1,33 @@
+wordtovec
+genism
+Word2vec with Gensim - Python
+CBOW SkipGram
+PCA->for this we have to study ----Variance, Covariance, Covariance Matrices,Eigenvectors and Eigenvalues
+
+
+
+1.what is overfit and how can we avoid it.????
+2.how much data will you alloaction for training,validation and testing set.
+3.how will you handle missingg and currupted data in a dataset.//////done
+4.how can you choose classifier for best on traing test size..
+5.Confusing Matrix.//////////////
+6.what is false positive and false negative and how they are significant.
+7.3-stage to build a model.
+8.Deep Learing.
+9.Difference b/w ML and deep learing.
+10.Unsupervised ML technique.
+11.difference b/w Supeervised vs Unsupervised?
+12.k-means vs KNN
+13.Reinforcement ML
+14.How recommendation system iss work...
+15.How will i design an E-mail spamming system.
+16.Random Forest
+17.I have a list of models and dataset .how will i choose model for our dataset.?
+18.bias and variance??trade off??
+
+//Algo-->
+1.naive bayes
+2.k-means
+(An algorithm that implements classification, especially in a concrete implementation,
+ is known as a classifier. The term "classifier" sometimes also refers to the mathematical function, 
+ implemented by a classification algorithm, that maps input data to a category.")
